@@ -13,12 +13,12 @@ public class ajay{
 }
 }
 
-/* OUTPUT 
-
+/* COMMENT STARTS
+OUPUT 
 Enter the No.of Rows = 5
 ***** 
 **** 
 *** 
 ** 
 * 
-                 */
+COMMNET ENDS */
