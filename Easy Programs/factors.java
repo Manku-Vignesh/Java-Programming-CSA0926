@@ -11,3 +11,11 @@ public class factors{
             }
         }
     }
+/*COMMENT STARTS
+    OUTPUT
+    Enter the Number = 10
+1
+2
+5
+10
+    COMMENT ENDS*/
